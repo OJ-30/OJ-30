@@ -1,6 +1,6 @@
-# ⚡ Oladapo Joseph (OJ) Akindele ⚡  
-🎓 First Year Computer Science student at The **University of Nottingham**
-🔙 Previously a Foundation Year student at the **University of Leicester**
+## ⚡ Oladapo Joseph (OJ) Akindele ⚡  
+- 🎓 First Year Computer Science student at The **University of Nottingham**
+- 🔙 Previously a Foundation Year student at the **University of Leicester**
 
 🏆 Passionate about **software development**, **Marvel**, **sports**, and **creative problem-solving**  
 
